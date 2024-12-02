@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: Day03/GearRatios.java
+  checksum: 21bee37ea626df68969b9d816843bcb033ce73b54cb08ca5e828c91e8f12777b
+- filename: Day05/day5part1refactor.java
+  checksum: f0a48c493a2d831b4b99c32ea66c287106803430fba664f5e658886c55aea941
+- filename: Day05/day5part2.java
+  checksum: 40a448bd96536c4e4d83fdd0840f5c0647b86581a79f70b23e05cfcc6ad93709
+version: ""
